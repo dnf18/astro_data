@@ -1,1 +1,45 @@
-https://data.nasa.gov/Space-Science/Planetary-Data-System-PDS-/9epu-76zj/about_data
+Astronomy Image Explorer | https://www.astroexplorer.org
+Cornell | https://physicalsciences.library.cornell.edu/astronomy-databases/
+Cornell / arXiv | https://arxiv.org/archive/astro-ph
+data.gov | https://catalog.data.gov/dataset?tags=astronomy
+Harvard | http://tdc-www.harvard.edu/astro.data.html
+Harvard | http://tdc-www.harvard.edu/links.html
+JWST | https://jwst-docs.stsci.edu/getting-started-with-jwst-data#gsc.tab=0
+JWST | https://jwst-docs.stsci.edu/accessing-jwst-data/jwst-science-data-overview#gsc.tab=0
+JWST | https://archive.stsci.edu/missions-and-data/jwst
+JWST | https://outerspace.stsci.edu/display/MASTDATA/JWST+AWS+Bulk+Download+Scripts
+JWST / MAST Portal | https://mast.stsci.edu/portal/Mashup/Clients/Mast/Portal.html
+NASA/PDS | https://data.nasa.gov/Space-Science/Planetary-Data-System-PDS-/9epu-76zj/about_data
+NASA | https://data.nasa.gov/browse
+NASA | https://science.data.nasa.gov/astrophysics-data/
+NASA / Astrophysics Data System (ADS) | https://ui.adsabs.harvard.edu
+NASA / Exoplanet Science Institute | https://nexsci.caltech.edu/tools/
+NASA / General Coordinates Network | https://gcn.nasa.gov
+NASA / High Energy Astrophysics Science Archive Reaserch Center | https://heasarc.gsfc.nasa.gov
+NASA / IPAC Extragalactic Database | http://ned.ipac.caltech.edu
+NASA / IPAC Infrafred Science Archive | https://irsa.ipac.caltech.edu/frontpage/
+NASA / JPL / Orbits | https://ssd.jpl.nasa.gov/orbits.html
+NASA / JPL / Small-Body Database | https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/
+NASA / JPL / Small-Body Database Query | https://ssd.jpl.nasa.gov/tools/sbdb_query.html
+NASA / JPL / Solar System Dynamics | https://ssd.jpl.nasa.gov
+NASA / JPL / Solar System Dynamics / Tools | https://ssd.jpl.nasa.gov/tools/
+NASA / JPL / Solar System Dynamics / APIs | https://ssd.jpl.nasa.gov/api.html
+NASA / LAMBDA | https://lambda.gsfc.nasa.gov/product/
+NASA / Mikulski Archive for Space Telescopes (MAST) | https://archive.stsci.edu
+NASA / Space Physics Data Facility | https://spdf.gsfc.nasa.gov
+SIMBAD / Set of Identifications, Measurements, and Bibliography for Astronomical Data (SIMBAD) | https://simbad.u-strasbg.fr/simbad/
+Sloan Digital Sky Survey | https://sites.krieger.jhu.edu/astronomy/large-datasets/
+Sload Digital Sky Survey | https://www.sdss.org/
+Sload Digital Sky Survey | https://www.sdss.org/dr18/
+Sload Digital Sky Survey / Black Hole Mapper | https://www.sdss.org/dr18/bhm/
+Sload Digital Sky Survey / Skyserver | https://skyserver.sdss.org/dr8/en/
+Strasbourg astronomical Data Center | https://cds.unistra.fr/
+SuMIRe Project | http://sumire.ipmu.jp/en/2652/
+SuMIRe Project | https://pfs.ipmu.jp/index.html
+UC Berkeley | https://guides.lib.berkeley.edu/astro
+UCLA | https://guides.library.ucla.edu/physics-astro
+UCLA / Astrophysics Data Lab | https://datalab.astro.ucla.edu
+VAO | http://www.virtualobservatory.org
+VisieR | http://vizier.u-strasbg.fr/cgi-bin/VizieR
+VLA | http://sundog.stsci.edu/top.html
+VLA | https://www.cv.nrao.edu/nvss/
